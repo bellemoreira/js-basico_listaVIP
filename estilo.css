@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin:2px;
+}
+body{
+    margin:0px;
+}
+
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+    font-family:'Lora';
+}
+p{
+    font-family:'Times New Roman', Times, serif
+    
+}
+input{
+    font-style: italic;
+    text-align: center;
+    font-size: small;
+    font-family: monospace;
+}
+
+.botao{
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
